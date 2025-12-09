@@ -1,28 +1,28 @@
 # IDR1 Labs
 
-Welcome to the official GitHub organization for **IDR1 Labs**.
+Welcome to the official GitHub organization of **IDR1 Labs**.
 
-IDR1 Labs is focused on building modern, reliable, and user-centric financial technology for Indonesia and the broader Southeast Asian region. Our work spans product development, research, and open-source tooling designed to support transparent and accessible digital financial infrastructure.
+IDR1 Labs is a research and development organization focused on building transparent, reliable, and verifiable financial infrastructure using blockchain technology. Our primary work centers on stablecoin systems, digital asset tooling, and open-source protocols that support trust-minimized financial applications.
 
-## 🚀 What We Do
-- Build software and tools that support next-generation financial applications  
-- Conduct research and experimentation in emerging financial technology  
-- Develop open-source projects for developers, institutions, and communities  
-- Collaborate with partners across the ecosystem to advance responsible innovation  
+## 🌐 What We Focus On
+- **Stablecoin infrastructure** for modern digital economies  
+- **Blockchain-based financial primitives** and transparency tools  
+- **Open-source protocols** for secure and verifiable value transfer  
+- **Applied cryptography research** to improve trust and auditability  
 
-## 📂 Repositories
+## 🛠 Open Source at IDR1 Labs
 This organization hosts:
-- Application codebases  
-- Internal tooling  
-- Open-source utilities  
-- Documentation and public resources  
-More repositories will appear as our projects grow.
+- Stablecoin-related software 
+- Blockchain integrations and smart contracts  
+- Documentation, research, and community resources  
+
+More repositories will appear as our project grows.
 
 ## 🤝 Contributing
-We welcome constructive feedback, issues, and contributions.  
-Guidelines for contributing will be provided in the respective repositories.
+We welcome collaboration through issues, pull requests, and community discussions.  
+Contribution guidelines will be provided within each repository.
 
 ## 📬 Contact
-For inquiries, partnerships, or collaboration opportunities, please reach out through our official channels.
+For questions, partnerships, or collaboration opportunities, please reach out via our official channels.
 
 Thank you for visiting IDR1 Labs.
